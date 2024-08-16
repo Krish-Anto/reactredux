@@ -13,7 +13,7 @@ export const Cart = () => {
     <div  >
       <div className='shchead'>
       <h2 style={{color:"Orange"}}>Shopping Cart</h2>
-      <h3>Cart Value</h3>
+      
       </div>
       <hr style={{ width: '70%', margin: '10px 0',border:'0.1px solid yellow'}}/>
       <div className='cartlist'>
